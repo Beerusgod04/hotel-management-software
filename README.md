@@ -1,4 +1,5 @@
 UNDER PROGRESS
 
-# hotel-management-software
-made using python and mysql
+COVID DETETION USING XRAY IMAGES
+
+USED KAGGLE DATASET
